@@ -49,4 +49,16 @@ Gene Ontology enrichment is conducted across Biological Process (BP), Cellular C
 
 # Required software
 
-
+1. R (4.4.2)
+2. RStudio version: 2024.12.0
+3. TCGAbiolinks (2.34.1)
+4. DT (0.33)
+5. dplyr (1.1.4)
+6. limma (3.62.2)
+7. EnhancedVolcano (1.24.0)
+8. ggplot2 (3.5.1)
+9. DOSE (4.0.1)
+10. org.Hs.eg.db (3.20.0)
+11. clusterProfiler (4.14.6)
+12. enrichplot (1.26.6)
+    
