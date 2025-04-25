@@ -2,7 +2,7 @@
 This pipeline focuses on identifying differentially expressed lncRNAs between tumor and normal samples from the TCGA-COAD cohort. 
 
 
-1.Data Collection: 
+## 1.Data Collection: 
 RNA-Seq data for TCGA-COAD is retrieved from the GDC portal in raw count format (STAR aligner output).
 
 2.Data Preparation: 
