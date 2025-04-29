@@ -1,3 +1,24 @@
+# GDC API for querying and downloading TCGA data
+library(TCGAbiolinks)
+
+# Data transformation and visualization
+library(edgeR)
+library(limma)
+library(EnhancedVolcano)
+
+# Annotation and mapping
+library(org.Hs.eg.db)
+library(AnnotationDbi)
+
+# Enrichment analysis
+library(clusterProfiler)
+library(DOSE)
+library(enrichplot)
+
+# General plotting
+library(ggplot2)
+
+
 # 1. Data Collection:
 
 # Query the TCGA dataset for Colon Adenocarcinoma (COAD) gene expression data using the STAR counts method
