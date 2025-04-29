@@ -31,9 +31,7 @@ Gene Ontology enrichment is conducted across Biological Process (BP), Cellular C
 
 ![Colorectal Cancer Analysis](images/image.png)
 
-
 # Required software
-
 1. R (4.4.2)
 2. RStudio version: 2024.12.0
 3. TCGAbiolinks (2.36.0)
