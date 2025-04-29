@@ -29,8 +29,8 @@ lncRNAs are labeled as "upregulated" or "downregulated" based on log fold change
 ## 9.GO Enrichment: 
 Gene Ontology enrichment is conducted across Biological Process (BP), Cellular Component (CC), and Molecular Function (MF) categories.
 
+![Description](images/image.png)
 
-<img src="images/Image.png" width="400"/>
 
 # Required software
 
