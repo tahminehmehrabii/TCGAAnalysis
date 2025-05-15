@@ -62,7 +62,7 @@ write.table(samples, "D:/my freelancing/Tahmine/tcga/samples.txt", quote = FALSE
 # ------------------------------
 library(TCGAbiolinks)
 
-bar <- samples  # فرض بر این است که "bar" همان "samples" است
+bar <- samples  
 n <- bar[bar$substr == 11, ]
 t <- bar[bar$substr == "01", ]
 
