@@ -1,4 +1,4 @@
-# Diagnostic lncRNA Biomarkers in Colorectal Cancer with TCGA RNA Seq Analysis
+# Diagnostic lncRNA Signatures in Colorectal Cancer:  TCGA RNA-Seq Study
 This pipeline focuses on identifying differentially expressed lncRNAs between tumor and normal samples from the TCGA-COAD cohort. 
 
 
