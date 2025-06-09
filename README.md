@@ -29,7 +29,7 @@ lncRNAs are labeled as "upregulated" or "downregulated" based on log fold change
 ## 9.GO Enrichment: 
 Gene Ontology enrichment is conducted across Biological Process (BP), Cellular Component (CC), and Molecular Function (MF) categories.
 
-![Colorectal Cancer Analysis](images/image.png)
+![Diagnostic lncRNA Biomarkers in Colorectal Cancer with TCGA RNA Seq Analysis](images/lncRNA_plot.png)
 
 # Required software
 1. R (4.4.2)
