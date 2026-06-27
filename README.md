@@ -1,6 +1,8 @@
 # Diagnostic lncRNA Signatures in Colorectal Cancer:  TCGA RNA-Seq Study
 To identify diagnostically relevant lncRNA signatures and associated biological pathways that distinguish colorectal tumor samples from normal tissues in the TCGA-COAD cohort.
 
+# workflow
+
 # Required software
 1. R (4.4.2)
 2. RStudio version: 2024.12.0
