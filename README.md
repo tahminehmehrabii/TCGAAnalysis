@@ -2,6 +2,7 @@
 To identify diagnostically relevant lncRNA signatures and associated biological pathways that distinguish colorectal tumor samples from normal tissues in the TCGA-COAD cohort.
 
 # workflow
+./images/Diagnostic%20lncRNA%20Signatures%20in%20Colorectal%20Cancer%20TCGA%20RNA-Seq%20Study.png
 
 # Required software
 1. R (4.4.2)
